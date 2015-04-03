@@ -5,6 +5,7 @@ description: "Instructions on how to install and customize the HMFAYSAL Notepad 
 category: theme
 tags: [how-to]
 imagefeature: cover10.jpg
+published: false
 ---
 
 General notes and suggestions for customizing **HMFAYSAL Notepad Theme**.
