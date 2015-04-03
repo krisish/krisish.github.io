@@ -550,7 +550,9 @@ iframe {
   padding-top: 3.75rem;
   padding-bottom: 5.625rem;
   padding-left: 1.875rem;
-  padding-right: 1.875rem; }
+  padding-right: 1.875rem; 
+  border-top: 0.0625rem solid #f2f2f2;
+}
   .notepad-disqus .notepad-comments-header {
     font-weight: 700;
     text-transform: uppercase; }
