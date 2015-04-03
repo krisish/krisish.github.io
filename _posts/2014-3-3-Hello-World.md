@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "You're up and running!"
-published: true
+published: false
 mathjax: false
 featured: false
 comments: false
