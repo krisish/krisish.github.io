@@ -1,7 +1,7 @@
-title:            Notepad
-description:      "Blogging is fun"
+title:            Krisish
+description:      "Ataque múltiple"
 logo:             logo.png
-disqus_shortname: hmfaysal
+disqus_shortname: krisish
 share:            true
 dropcap:			true
 # Change url to your domain. Leave localhost server or blank when working locally.
@@ -15,17 +15,17 @@ owner:
   avatar:         hmfaysal.jpg
   email:          krisish@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Awesome Dude, Awesome Life
+  description:    Ataque múltiple
   # Social networking links used in footer. Update and remove as you like.
   twitter:        cine_indoor
-  facebook:       hmfaysal
-  github:         krisish      
+  facebook:       krisish
+  github:               
   instagram:      krisish
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/u/0/102602916593522619858
+  google_plus:    
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-39365944-7
+google_analytics:   UA-61527231-1
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
