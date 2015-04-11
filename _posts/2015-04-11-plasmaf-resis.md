@@ -4,7 +4,9 @@ published: true
 title: Plasmaféresis
 mathjax: false
 featured: false
-comments: false
+comments: true
+imagefeature: pajitas.jpg
+
 ---
 
 La **plasmaféresis** es un método mediante el cual se extrae la sangre del cuerpo y se procesa de forma que los glóbulos blancos, glóbulos rojos y las plaquetas se separen del plasma. Las células de la sangre se devuelven luego al paciente sin el plasma, que el organismo sustituye rápidamente.
