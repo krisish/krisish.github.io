@@ -6,7 +6,6 @@ mathjax: false
 featured: false
 comments: true
 imagefeature: plasma_2.jpg
-
 ---
 
 La **plasmaféresis** es un método mediante el cual se extrae la sangre del cuerpo y se procesa de forma que los glóbulos blancos, glóbulos rojos y las plaquetas se separen del plasma. Las células de la sangre se devuelven luego al paciente sin el plasma, que el organismo sustituye rápidamente.
@@ -27,3 +26,5 @@ Unas dos horas en las que no puedes moverte mucho y a veces tienes que ir masaje
 ## Resultados
 
 Ayer me dieron la tercera sesión de cinco y la verdad es que estoy muy contenta porque ya voy notando **mejoría**. Estoy menos cansada y comienzo a notar mis pies como antes, allá por el mes de agosto antes de que me diera un brote en el embarazo del que hablaré más adelante.
+
+Puedes leer más sobre la plasmaféresis aquí http://gciamtboletintrabajos.blogspot.com.es/2010/07/uso-de-plasmaferesis-terapeutica-en-el_27.html
