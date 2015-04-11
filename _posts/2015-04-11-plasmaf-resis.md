@@ -17,9 +17,9 @@ Para realizar la plasmaféresis es necesario pinchar dos catéteres en dos venas
 
 Los catéteres se conectan a la máquina de plasmaféresis con tubos transparentes de plástico. La máquina de plasmaféresis se encarga de mezclar la sangre con anticoagulante, la centrifuga para separar el plasma y luego la devuelve al paciente sin el plasma. El plasma es reemplazado por albúmina, el componente principal del plasma.
 
-<div class="text-center">
+<p class="text-center">
 <iframe src="https://vine.co/v/eB0BeBK6VVJ/embed/simple" width="600" height="600" frameborder="0" style="margin-left:auto;margin-right:auto"></iframe><script src="https://platform.vine.co/static/scripts/embed.js"></script>
-</div>
+</p>
 
 En total el proceso dura unas dos horas y media.
 Unas dos horas en las que no puedes moverte mucho y a veces tienes que ir masajeando una bola anti estrés para ir bombeando la sangre.
