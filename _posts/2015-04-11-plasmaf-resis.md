@@ -5,7 +5,7 @@ title: Plasmaféresis
 mathjax: false
 featured: false
 comments: true
-imagefeature: pajitas.jpg
+imagefeature: plasma_2.jpg
 
 ---
 
