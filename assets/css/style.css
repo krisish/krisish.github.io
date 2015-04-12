@@ -385,7 +385,9 @@ nav.pagination {
     .notepad-site-footer .copyright,
     .notepad-site-footer .links {
       text-align: left;
-      float: left; }
+      float: left; 
+      color: white;
+    }
     .notepad-site-footer .social-icons {
       text-align: right;
       float: right; } }
