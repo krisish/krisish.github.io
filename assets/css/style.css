@@ -382,7 +382,8 @@ nav.pagination {
     .notepad-site-footer .copyright {
       width: 32%;
       padding: 5rem; }
-    .notepad-site-footer .copyright {
+    .notepad-site-footer .copyright,
+    .notepad-site-footer .links {
       text-align: left;
       float: left; }
     .notepad-site-footer .social-icons {
