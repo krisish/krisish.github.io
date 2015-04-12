@@ -356,6 +356,7 @@ nav.pagination {
   .notepad-site-footer.with-bg-cover {
     background-color: rgba(0, 0, 0, 0.7); }
   .notepad-site-footer .social-icons,
+  .notepad-site-footer .links,
   .notepad-site-footer .copyright {
     width: 100%;
     padding: 0;
@@ -377,8 +378,9 @@ nav.pagination {
       color: black; }
   @media only screen and (min-width: 70em) {
     .notepad-site-footer .social-icons,
+    .notepad-site-footer .links,
     .notepad-site-footer .copyright {
-      width: 49%;
+      width: 32%;
       padding: 5rem; }
     .notepad-site-footer .copyright {
       text-align: left;
