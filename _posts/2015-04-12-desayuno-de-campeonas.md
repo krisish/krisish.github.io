@@ -14,7 +14,7 @@ La principal ayuda que tengo para frenar mis brotes es la megadosis de corticoid
 
 Debe tomarse a primera hora de la mañana sin estar en ayunas mezclada con zumo. 
 Se toma cinco días y a veces se pone por gotero. Debes tomar un protector de estómago antes porque es una bomba, seguril y potasio después.
-Los corticoides son nuestros amigos porque son un súoer antiinflamatorio, imitan al cortisol que produce nuestro organismo, de modo que nos van a aliviar la inflamación y dolores  y van a servir como inmunosupresores también. Y su efecto dura un mes.
+Los corticoides son nuestros amigos porque son un súper antiinflamatorio, imitan al cortisol que produce nuestro organismo, de modo que nos van a aliviar la inflamación y dolores  y van a servir como inmunosupresores también. Y su efecto dura un mes.
 
 Pero también tienen múltiples **efectos secundarios**
 
