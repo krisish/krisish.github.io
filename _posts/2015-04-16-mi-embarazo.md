@@ -7,7 +7,7 @@ featured: false
 comments: false
 ---
 
-![cover-image]({{ site.baseurl }}/images/)
+![cover-image]({{ site.baseurl }}/images/ecografia2.jpg)
 
 Una de las principales preocupaciones de las mujeres con esclerosis múltiple es la **maternidad**. También lo era la mía hasta el pasado diciembre cuando tuve a nuestra primera hija **Lara**.
 
@@ -26,6 +26,8 @@ Imaginad qué palo fue, no quería tomar nada que pudiese dañar al bebé pero e
 A esto se añadía algo más personal que no tiene que ver con la **em**. Mi relación con mi hermana y mi padre no es buena. Perdí a mi madre en 2011 y nuestro grupo de amigos que no es muy niñero empezó a alejarse. Me sentí muy sola algo que muchas otras madres reconocen haber sentido.
 
 Pero puedo decir unas cuantas cosas divertidas también. Nunca me he reído tan a gusto, benditas hormonas, tenía un pelazo y una vez en el extranjero, una extranjera me cedió el asiento (en España por supuesto que no).
+
+![Animación embarazo]({{ site.baseurl }}/images/proceso_barriguil.gif)
 
 El parto fue por cesárea el 25 de diciembre tras 8 horas de dilatación en el paritorio. Allí una sorpresa desagradable: la anestesista no quería ponerme la **epidural** por posibles problemas para mi esclerosis. Para mis adentros pensaba... si me han hecho dos punciones lumbares (de las que ya hablaré) y tengo un brote embarazada, qué me importa un pinchazo más.
 
