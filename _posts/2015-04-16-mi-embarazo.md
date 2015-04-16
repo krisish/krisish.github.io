@@ -32,9 +32,9 @@ El parto fue por cesárea el 25 de diciembre tras 8 horas de dilatación en el p
 
 Después de insistir mucho firmé un consentimiento que me hacía responsable y por fin me la pusieron. Al hablarlo con el neurólogo me dijo que no había ningún problema con la epidural pero imaginad el disgusto en ese momento de nervios.
 
-Con el primer llanto todo el miedo se transformó en emoción y al ver su carita y saber que todo había ido bien me embargó una gran alegría, unas tremendas ganas de llorar y agotamiento.
+Con el primer llanto todo el miedo se transformó en emoción y al ver su carita y saber que todo había ido bien y estaba sana, me embargó una gran alegría, unas tremendas ganas de llorar y agotamiento.
 
-El **postparto** ha sido duro. Tomé corticoides el día después y 15 días después otra vez, pero eso no evitó el brote. La resonancia mostraba unas 10 lesiones nuevas en el cerebro. Los corticoides no fueron suficientes. Al mes tomé corticoides de nuevo. Estaba cansadísima y tenía muchos dolores.
+El **postparto** ha sido duro. Tomé corticoides el día después y 15 días después otra vez, es el protocolo, pero eso no evitó el brote. La resonancia mostraba unas 10 lesiones nuevas en el cerebro. Los corticoides no fueron suficientes. Al mes tomé corticoides de nuevo. Estaba cansadísima y tenía muchos dolores.
 
 Unas semanas después otro brote me dejó una pierna con muy poca movilidad. La resonancia mostraba otras 5 lesiones nuevas en el cerebro y una en la médula. Otra vez corticoides y esta vez también [plasmaféresis]({{ site.baseurl }}/plasmaf-resis) y la propuesta de iniciar el tratamiento con [Lemtrada]({{ site.baseurl }}/lemtrada).
 
