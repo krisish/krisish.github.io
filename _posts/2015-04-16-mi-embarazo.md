@@ -22,7 +22,7 @@ En agosto tuve un brote. Se supone que no debe pasar porque el embarazo te prote
 
 Imaginad qué palo fue, no quería tomar nada que pudiese dañar al bebé pero el neuro y Javi fueron muy tajantes.
 
-A esto se añadía algo más personal que no tiene que ver con la **em**. Mi relación con mi hermana y mi padre no es buena. Perdí a mi madre en 2011 y nuestro grupo de amigos que no es muy niñero empezó a alejarse. Me sentí muy sola algo que muchas otras madres reconocen haber sentido.
+A esto se añadía algo más personal que no tiene que ver con la **em**. Mi relación con mi hermana y mi padre no es buena. Perdí a mi madre en 2011 y nuestro grupo de amigos que no es muy niñero empezó a alejarse (aunque no todos). Me sentí muy sola algo que muchas otras madres reconocen haber sentido.
 
 Pero puedo decir unas cuantas cosas divertidas también. Nunca me he reído tan a gusto, benditas hormonas, tenía un pelazo y una vez en el extranjero, una extranjera me cedió el asiento (en España por supuesto que no).
 
