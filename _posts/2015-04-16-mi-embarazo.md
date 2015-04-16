@@ -4,7 +4,7 @@ published: true
 title: "Mi EM-barazo"
 mathjax: false
 featured: false
-comments: false
+comments: true
 imagefeature: ecografia2.jpg
 ---
 
