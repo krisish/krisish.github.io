@@ -5,6 +5,7 @@ title: "Mi EM-barazo"
 mathjax: false
 featured: false
 comments: false
+featureimage: ecografia2.jpg
 ---
 
 Una de las principales preocupaciones de las mujeres con esclerosis múltiple es la **maternidad**. También lo era la mía hasta el pasado diciembre cuando tuve a nuestra primera hija **Lara**.
