@@ -1,12 +1,18 @@
 ---
 layout: post
-published: false
+published: true
 title: Lemtrada. Información general
 mathjax: false
 featured: false
 comments: true
+imagefeature: "path-railroad-rails-1425.jpg"
 ---
 
+
+Alemtuzumab es un anticuerpo monoclonal que se produce mediante tecnología de ADN recombinante en un cultivo en suspensión de células de mamíferos (ovario de hámster chino) en un medio nutriente. LEMTRADA está indicado en pacientes adultos con esclerosis múltiple remitente recurrente (EMRR) con
+enfermedad activa.
+
+Para los que entendéis el lenguaje médico, os dejo el [enlace al prospecto de Lemtrada](http://www.ema.europa.eu/docs/es_ES/document_library/EPAR_-_Product_Information/human/003718/WC500150521.pdf). Si necesitáis buscar el prospecto de otros medicamentos podéis hacerlo en la web de la [AEMPS](http://www.aemps.gob.es/cima/fichasTecnicas.do?metodo=detalleForm).
 
 ** Ventajas de Lemtrada (respecto interferón beta) **
 
