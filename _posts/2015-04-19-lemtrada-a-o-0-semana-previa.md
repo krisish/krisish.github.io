@@ -7,7 +7,7 @@ featured: false
 comments: true
 ---
 
-!(Foto de la carpeta)[images/papeleria.jpg]
+![Foto de la carpeta](images/papeleria.jpg)
 
 Mañana empiezo el tratamiento con Lemtrada y esta semana ya he empezado con la medicación previa (**pretratamiento**): corticoides y aciclovir. Además el neurólogo me ha entregado la carpeta con información para el paciente que quiero compartir con vosotros.
 
