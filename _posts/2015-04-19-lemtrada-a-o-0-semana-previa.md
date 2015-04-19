@@ -5,12 +5,15 @@ title: "Lemtrada. Año 0, semana previa"
 mathjax: false
 featured: false
 comments: true
-imagefeature: papeleria.jpg
 ---
+
+!(Foto de la carpeta)[images/papeleria.jpg]
 
 Mañana empiezo el tratamiento con Lemtrada y esta semana ya he empezado con la medicación previa (**pretratamiento**): corticoides y aciclovir. Además el neurólogo me ha entregado la carpeta con información para el paciente que quiero compartir con vosotros.
 
 El pasado jueves fui a la consulta del neurólogo y juntos volvimos a comprobar todos los puntos que me hacen candidata a la medicación: llevo poco diagnosticada, soy joven, tengo la enfermedad muy activa, tengo todas las vacunas y me comprometo a hacerme controles de sangre y orina cada mes durante cinco años. También me comprometo a no quedarme embarazada hasta 4 meses después de la segunda perfusión.
+
+Por supuesto me hizo el test basal (dedo-nariz, salta a la pata coja, apreta los dientes...) y he mejorado gracias a la plasmaféresis. He recuperado mucha de la fuerza de las piernas.
 
 También me dio una carpeta que contiene la Guía del paciente, la tarjeta del paciente y el calendario de monitorización: 
 
