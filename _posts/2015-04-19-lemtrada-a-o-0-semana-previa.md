@@ -14,26 +14,14 @@ El pasado jueves fui a la consulta del neurólogo y juntos volvimos a comprobar 
 También me dio una carpeta que contiene la Guía del paciente, la tarjeta del paciente y el calendario de monitorización: 
 
 - La tarjeta del paciente debo llevarla encima si me pasa algo para que los médicos que me atiendan sepan de qué trata la medicación.
-
-- El calendario es un calendario de mesa de 2015 y 2016 con pegatinas para ponerlas los días que me toca análisis de sangre y orina.
-
+- El calendario es un calendario de mesa de 2015 y 2016 con pegatinas para ponerlas los días que me toca análisis de sangre y orina. Qué bien lo voy a pasar con Lara :D
 - La guía del paciente os la incluyo en pdf para que le echéis un vistazo.
 
-<iframe src="https://drive.google.com/file/d/0B6Tjx7FUPk-bSWRnbEx5U0dNUndwYUJvVmRlXzNFTWFDRWow/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/0B6Tjx7FUPk-bSWRnbEx5U0dNUndwYUJvVmRlXzNFTWFDRWow/preview" width="640" height="480" style="width: 100%; margin-bottom: 30px"></iframe>
 
-**Posología**
+Mañana me esperan 2 horas de corticoides seguidas de 5 horas de Lemtrada y otras 2 de observación así que va a ser un día largo. La perfusión (gotero) puede darme alergia, urticaria, dolor de cabeza y fatiga.
 
-La dosis recomendada de LEMTRADA es de 12 mg/día, administrados por perfusión intravenosa en 2
-cursos de tratamiento.
-- Curso inicial: 12 mg/día durante 5 días consecutivos (dosis total de 60 mg)
-- Segundo curso: 12 mg/día durante 3 días consecutivos (dosis total de 36 mg) administrados 12
-meses después del curso inicial de tratamiento. 
-Así que de lunes a viernes estaré de 8:15 hasta mitad de tarde monitorizada vigilando posibles reacciones alérgicas.
+El resto de la semana igual. He preparado el kindle, el iPod, el Candy Crush... todo para hacer la espera algo más llevadera.
 
-**Riesgos**
-El tratamiento puede dar lugar a la formación de autoanticuerpos y aumentar el riesgo de enfermedades de
-origen autoinmune incluyendo: púrpura trombocitopénica inmune (PTI), trastornos de tiroides o, raramente,
-nefropatías (por ejemplo, enfermedad por anticuerpos anti-membrana basal glomerular).
-Con la púrpura debo estar atenta a hematomas, petequias y por eso también tengo control de plaquetas cada mes.
-Con la nefropatía controles de orina cada mes y atención si hay sangre en la orina. Los transtornos tiroides seguramente deberé controlarlos más porque ya padezco hipotiroidismo pero mi endocrino ya se ha coordinado con mi neurólogo.
+¡Deseadme suerte!
 
