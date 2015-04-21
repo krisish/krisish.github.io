@@ -11,7 +11,7 @@ El primer día ha ido bastante bien. Pero el primer consejo es **bebe mucha agua
 
 Primero hablé con mi doctor y me dijeron que avisara de cualquier síntoma nuevo. Y también que tuviera en cuenta hacerme citologías anuales por el **virus del papiloma humano**.
 
-![sangredeunicornio](//images/IMG_6748.JPG)
+![sangredeunicornio](/images/IMG_6748.JPG)
 
 El aciclovir lo tomé en casa.
 Luego me pusieron corticoides (omeprazol, seguril y potasio), paracetamol y polaramine y después Lemtrada a un ritmo muy lento.
