@@ -14,7 +14,7 @@ Primero hablé con mi doctor y me dijeron que avisara de cualquier síntoma nuev
 ![sangredeunicornio](/images/IMG_6748.JPG)
 
 El aciclovir lo tomé en casa.
-Luego me pusieron corticoides (omeprazol, seguril y potasio), paracetamol y polaramine y después Lemtrada a un ritmo muy lento.
+Luego me pusieron corticoides (omeprazol, seguril y potasio), paracetamol y polaramine. Luego suero de mantenimiento para esperar media hora y después Lemtrada a un ritmo muy lento.
 
 El tratamiento duró cinco horas y media con controles de tensión y temperatura.
 Y al llegar hacia el final empecé con dolor de cabeza, cansancio y frío muy intenso.
