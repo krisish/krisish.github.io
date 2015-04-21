@@ -20,7 +20,7 @@ El tratamiento duró cinco horas y media con controles de tensión y temperatura
 Y al llegar hacia el final empecé con dolor de cabeza, cansancio y frío muy intenso.
 
 Me había subido la fiebre y tenía taquicardia y la tensión muy baja.
-Con unas dosis de paracetamol y dos horas de controles en observación me pude ir a casa.
+Con unas dosis de paracetamol y dos horas de controles en observación me pude ir a casa. Luego me dijeron que esto es algo bastante normal.
 
 Mi tensión suele ser baja así que ya podía ir controlando en casa.
 Si tenía picores polaramine, y con fiebre paracetamol y si no se iba ibuprofeno.
