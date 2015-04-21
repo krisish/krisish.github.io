@@ -7,7 +7,7 @@ featured: false
 comments: true
 ---
 
-El primer día ha ido bastante bien. Pero el primer consejo es **bebe mucha agua** y no te pasará como a mí.
+El primer día ha ido bastante bien, gracias a mi camiseta de sangre de unicornio :D. Pero el primer consejo es **bebe mucha agua** y no te pasará como a mí.
 
 Primero hablé con mi doctor y me dijeron que avisara de cualquier síntoma nuevo. Y también que tuviera en cuenta hacerme citologías anuales por el **virus del papiloma humano**.
 
