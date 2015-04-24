@@ -8,9 +8,11 @@ comments: false
 imagefeature: breakfast.jpg
 ---
 
-
 La principal ayuda que tengo para frenar mis brotes es la megadosis de corticoides a la que llamo desayuno de campeones jocosamente. Está _delicioso_ (ironía)
 
+<div class="text-center" style="margin-bottom: 30px">
+<iframe src="https://vine.co/v/ez2qpwtm33I/embed/simple" width="600" height="600" frameborder="0"></iframe><script src="https://platform.vine.co/static/scripts/embed.js"></script>
+</div>
 
 Debe tomarse a primera hora de la mañana sin estar en ayunas mezclada con zumo. 
 Se toma cinco días y a veces se pone por gotero. Debes tomar un protector de estómago antes porque es una bomba, seguril y potasio después.
@@ -37,4 +39,3 @@ Te crecerá pelo como a un hombre lobo sin que haya luna llena.
 **Depresión**
 
 Después vendrá el temido bajón y cansancio. Y consiguientes cambios de humor. Pobre Javi.
-
