@@ -8,7 +8,7 @@ comments: true
 imagefeature: tunel.jpg
 ---
 
-En la segunda mitad de esta semana he vuelto a notar varios de los síntomas que tenía antes de la plasmaféresis aunque en menor grado. Fatiga, hormigueo, dolor en las piernas y pies y pies dormidos :(.
+En la segunda mitad de esta semana he vuelto a notar varios de los síntomas que tenía antes de la plasmaféresis aunque en menor grado. Fatiga, hormigueo, dolor en los pies y piernas y también los pies dormidos otra vez :(.
 
 Nada muy exagerado pero algo molesto, por lo que he leído en otros blogs, es un pequeño empeoramiento temporal que dura 2 o 3 meses.
 
