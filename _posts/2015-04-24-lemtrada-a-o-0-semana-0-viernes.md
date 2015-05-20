@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "Lemtrada. Año 0, semana 1, viernes"
+title: "Lemtrada. Año 0, semana 0, viernes"
 mathjax: false
 featured: false
 comments: true
