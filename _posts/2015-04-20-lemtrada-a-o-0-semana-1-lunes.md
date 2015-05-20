@@ -1,11 +1,12 @@
 ---
 layout: post
 published: true
-title: "Lemtrada. Año 0, semana 1, Lunes"
+title: "Lemtrada. Año 0, semana 0, Lunes"
 mathjax: false
 featured: false
 comments: true
 ---
+
 
 El primer día ha ido bastante bien, gracias a mi camiseta de sangre de unicornio :D. Pero el primer consejo es **bebe mucha agua** y no te pasará como a mí.
 
