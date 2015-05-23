@@ -9,7 +9,8 @@ comments: true
 
 
 El jueves estuve en el neurólogo. Las analíticas están como esperábamos y tras el **control basal** parece que no tengo nuevos brotes y que mis síntomas son secuelas de los anteriores.
-<div  style="text-align: center; margin-bottom:30px">
+
+<div style="text-align: center; margin-bottom:30px">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/RrqX7V6GOYY" frameborder="0" allowfullscreen></iframe>
 </div>
 
