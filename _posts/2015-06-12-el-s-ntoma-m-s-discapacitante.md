@@ -15,6 +15,8 @@ En esta mi primera entrada voy a hablar de la depresión, he elegido este tema p
 
 La depresión es un transtorno del estado de ánimo que provoca estados de infelicidad, abatimiento y culpa e incapacita a la persona de disfrutar, de sentir placer, interés y satisfacción. Una persona con depresión severa no encuentra placer en ver una película o leer, en bajar a pasear, en charlar con amigos o en el sexo. Abandona sus hobbies y puede pasar el día en la cama y pensar seriamente en el suicidio. Se vuelve irritable, pierde la autoestima y las ganas de vivir.
 
+![Winter is coming](https://atensionprimaria.files.wordpress.com/2012/07/stark-winter-is-coming-game-of-thrones-1.jpeg)
+
 La EM se suele presentar de forma recurrente remitente (*EMRR*), esto es un brote más o menos severo y un periodo sin brotes en el que puede haber recuperación. Cuando te acostumbras a un nuevo problema de tu cuerpo y lo aceptas durante el periodo de recuperación, un nuevo brote aparece. Nuevas discapacidades, a menudo cambio de planes y fuerte golpe emocional. 
 
 Según vienen los brotes, llegas interiorizar la sensación de que siempre habrá otro: **Winter is coming** para los seguidores de Juego de Tronos. Además la EMRR puede derivar en EM secundaria progresiva, una forma en la que la degeneración se produce de forma contínua y no por brotes. Y algunos pacientes viven en constante desesperanza y miedo.
