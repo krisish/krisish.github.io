@@ -1,11 +1,12 @@
 ---
 layout: post
-published: false
+published: true
 title: El síntoma más discapacitante
 mathjax: false
 featured: false
 comments: true
 ---
+
 
 Hay un síntoma de la esclerosis múltiple que te impide salir con amigos, estudiar, trabajar y hacer deporte. Además te hace encontrarte mal y discutir con quienes te rodean o incluso perder amistades. Para colmo afecta a dos tercios de las personas con esclerosis y es la depresión.
 
