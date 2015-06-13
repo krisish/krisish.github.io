@@ -5,6 +5,7 @@ title: El síntoma más discapacitante
 mathjax: false
 featured: false
 comments: true
+author: Javi Carrasco
 ---
 
 
