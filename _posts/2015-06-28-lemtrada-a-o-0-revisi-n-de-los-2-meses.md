@@ -8,7 +8,8 @@ comments: true
 imagefeature: energy.jpg
 ---
 
-Esta semana por fin, he notado un poco más de energía. El jueves tuve revisión en el neurólogo y tras el examen rutinario parece que también he recuperado un poco de fuerza en las piernas.
+
+Esta semana, ¡por fin! he notado un poco más de energía. El jueves tuve revisión en el neurólogo y tras el examen rutinario parece que también he recuperado un poco de fuerza en las piernas.
 
 Los controles analíticos son los normales. Los linfocitos a 490 que es bajo, pero como si estuviera tomando Fingolimod.
 Ya acabé las 4 cajas de Aciclovir y no pillé el temido herpes.
@@ -20,5 +21,3 @@ Lo que tiene preocupado a mi neuro es mi estado de ánimo, no estoy bien y me lo
 Ayer ya seguí su consejo y fuimos a la playa con unos amigos. Lo pasamos bien.
 
 ¿Y vosotros hacéis deporte? ¿Me dais algún consejo?
-
-
