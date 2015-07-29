@@ -9,6 +9,7 @@ imagefeature: sound.jpg
 ---
 
 
+
 Actualizado: ¡¡Me han cancelado ya dos veces la resonancia porque no va la máquina!! Y estamos casi en agosto. 
 
 Ahora a cambiar la cita con el neuro. Misión imposible en estas fechas.
@@ -21,7 +22,9 @@ Incluso se debe evitar tragar y toser cuando es la parte cervical como es mi cas
 
 Así que para aguantar bien el rato siempre recuerdo la película sueca [Sound of Noise](https://youtu.be/mo6atXeqyMQ) con la que disfruté muchísimo en Sitges.
 
+<p class="text-center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mo6atXeqyMQ" frameborder="0" allowfullscreen></iframe>
+</p>
 
 Esta tarde tengo concierto. :)
 El jueves me dirán el resultado. Ya os contaré
