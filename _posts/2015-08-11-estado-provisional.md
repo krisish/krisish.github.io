@@ -9,7 +9,7 @@ imagefeature: benavente.jpg
 author: Javi Carrasco
 ---
 
-... Y resisto como resisten en el barrio del Cabañal, no es eterno es un estado provisional. Es un verso de **Estado Provisional**, la canción de León Benavente que da título a este blog.
+Y resisto como resisten en el barrio del Cabañal, no es eterno es un estado provisional. Es un verso de **Estado Provisional**, la canción de León Benavente que da título a este blog.
 
 <p class="text-center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/26HPVbcI5LI" frameborder="0" allowfullscreen></iframe>
