@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Estado provisional
 mathjax: false
 featured: false
