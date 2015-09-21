@@ -4,7 +4,8 @@ published: true
 description: ""
 headline: ""
 modified: ""
-categories: null
+categories: 
+  - "null"
 tags: ""
 imagefeature: revelation0.jpg
 mathjax: false
@@ -12,6 +13,7 @@ featured: false
 comments: true
 title: Revelation
 ---
+
 
 Feliz lunes. Hoy estoy muy animada. He encontrado a una chica que también está tratándose con **Lemtrada. ¡Por fin nos hemos encontrado!**
 
@@ -22,4 +24,3 @@ Es muy interesante conocer a más gente con la enfermedad y ver como es su día 
 Y poder ver que somos muy parecidos. 
 
 Os seguiré contando.
-
