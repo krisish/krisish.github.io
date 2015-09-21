@@ -4,8 +4,6 @@ published: true
 description: ""
 headline: ""
 modified: ""
-categories: 
-  - "null"
 tags: ""
 imagefeature: revelation0.jpg
 mathjax: false
