@@ -4,8 +4,6 @@ published: true
 description: ""
 headline: ""
 modified: ""
-categories: 
-  - "null"
 tags: ""
 imagefeature: chinchetas.jpg
 mathjax: false
