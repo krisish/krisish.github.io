@@ -4,7 +4,8 @@ published: true
 description: ""
 headline: ""
 modified: ""
-categories: null
+categories: 
+  - "null"
 tags: ""
 imagefeature: chinchetas.jpg
 mathjax: false
@@ -12,6 +13,7 @@ featured: false
 comments: true
 title: Diccionario EM. Parestesia
 ---
+
 
 La **parestesia** se define como la sensación anormal de los sentidos que se traduce por una sensación de **hormigueo**, adormecimiento, **acorchamiento**, entumecimiento o **pinchazos**, producido por una patología del sistema nervioso.
 
@@ -22,5 +24,5 @@ Las fibras sensoriales de mayor tamaño envueltas en mielina (una proteína gras
 Las fibras sensoriales más pequeñas, sin la cobertura de mielina, transmiten las sensaciones de dolor y temperatura. El daño a estas fibras puede interferir con la capacidad para sentir dolor o los cambios de temperatura. Las personas pueden no percibir que han sufrido una herida o que una herida se ha infectado. Los receptores de dolor en la piel también pueden tornarse excesivamente sensibles, por lo que las personas afectadas sienten **dolor agudo** (alodinia) con estímulos que son normalmente indoloros (por ejemplo, con una caricia).
 
 Referencias:
-- [Parestesia en Wikipedia](https://es.wikipedia.org/wiki/Parestesia)
-- [Instituto Nacional de Transtornos Neurológicos y Accidentes Cerebrovasculares](http://espanol.ninds.nih.gov/trastornos/neuropatia_periferica.htm)
+ - [Parestesia en Wikipedia](https://es.wikipedia.org/wiki/Parestesia)
+ - [Instituto Nacional de Transtornos Neurológicos y Accidentes Cerebrovasculares](http://espanol.ninds.nih.gov/trastornos/neuropatia_periferica.htm)
