@@ -13,7 +13,7 @@ comments: true
 title: Diccionario EM. Parestesia
 ---
 
-La parestesia se define como la sensación anormal de los sentidos que se traduce por una sensación de **hormigueo**, adormecimiento, **acorchamiento**, entumecimiento o **pinchazos**, producido por una patología del sistema nervioso.
+La **parestesia** se define como la sensación anormal de los sentidos que se traduce por una sensación de **hormigueo**, adormecimiento, **acorchamiento**, entumecimiento o **pinchazos**, producido por una patología del sistema nervioso.
 
 Estas sensaciones anormales se pueden producir en cualquier parte del cuerpo, pero son más usuales en las manos, pies, brazos y piernas.
 
