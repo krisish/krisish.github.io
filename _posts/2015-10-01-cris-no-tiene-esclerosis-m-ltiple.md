@@ -11,6 +11,7 @@ mathjax: false
 featured: false
 comments: true
 title: Cris no tiene Esclerosis Múltiple
+author: Javier Carrasco
 ---
 
 Hoy el dentista se lo ha dicho. ¿Y si no tienes esclerosis múltiple y solo es que el **nervio trigémino** te roza con la mandíbula? Tócate los cojones Mari Loles.
