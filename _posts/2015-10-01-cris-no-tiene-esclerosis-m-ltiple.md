@@ -22,7 +22,7 @@ Y es que no nos lo esperábamos, al crack no le han importado los 5 años con 2 
 
 Hemos pasado por amigas que nos explican cómo todas las enfermedades las causamos nosotros mismos con nuestra actitud (muchas gracias por eso pedazo de insensible), que existen medicinas naturales con menos efectos secundarios (y principales añadiría yo), que no debe convertirse en un conejillo de indias con medicamentos nuevos y gente que compara sus síntomas con los de Cris (la fatiga de una persona sana por ejemplo).
 
-Pero que un doctor en medicina dude del diagnóstico del neurólogo y de alguna forma, reduzca tanto la importancia de una enfermedad como la EM no nos lo esperábamos. **Hemos quedado que le va a curar limándole un poco el hueso :D**
+Pero que un profesional sanitario dude del diagnóstico del neurólogo y de alguna forma, reduzca tanto la importancia de una enfermedad como la EM no nos lo esperábamos. **Hemos quedado que le va a curar limándole un poco el hueso :D**
 
 Se lo contaremos pronto al neuro, pero como es mucho más educado no vamos a verlo explotar. En función de lo que nos diga, cancelamos la consulta del dentista.
 
