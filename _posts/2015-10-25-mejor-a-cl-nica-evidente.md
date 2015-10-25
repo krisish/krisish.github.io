@@ -21,4 +21,4 @@ Estamos muy contentos, sigo estable aunque con los dolores en los pies por la ma
 
 Por fin me quité la muela del juicio sin quitarme hueso, lo pedí expresamente. Hablé con mi neuro y se rió por no llorar, claro, y dijo más o menos que el [dentista](http://krisish.github.io/cris-no-tiene-esclerosis-m-ltiple/) se lo había inventado.
 
-Le he pedido a mi neuro bajarme la pastilla de **Escitalopram**, me siento muy pasota, plana y no siento las cosas, ¿os ha pasado?). Ahora estoy con media y toca esperar. Así que relax. 
+Le he pedido a mi neuro bajarme la pastilla de **Escitalopram**, me siento muy pasota, plana y no siento las cosas, ¿os ha pasado?. Ahora estoy con media y toca esperar. Así que relax. 
