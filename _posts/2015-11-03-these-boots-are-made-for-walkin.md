@@ -19,9 +19,9 @@ Parece una tontería pero iba incómoda con todo y no me quitaba las **flip flop
 
 Así que hay que celebrarlo:
 
-<div class="center">
+<p class="text-center">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/SbyAZQ45uww" frameborder="0" allowfullscreen></iframe>
-</div>
+</p>
 
 En [Multiplesclerosis.net](http://multiplesclerosis.net/living-with-ms/) también buscan el par de zapatos perfecto: que no pese mucho, se abroche bien, base ancha, una suela cómoda y no demasiado baja, tacón bajo y... que sea de tu talla! Y han elaborado un listado de las marcas más utilizadas (en América, Aerosoles por ejemplo) mediante un [sondeo](http://multiplesclerosis.net/living-with-ms/search-perfect-pair-shoes/)
 
