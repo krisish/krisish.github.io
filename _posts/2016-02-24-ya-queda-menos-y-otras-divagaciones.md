@@ -6,7 +6,7 @@ headline: ""
 modified: ""
 categories: null
 tags: ""
-imagefeature: columpio.jpg
+imagefeature: columpio.jpeg
 mathjax: false
 featured: false
 comments: true
