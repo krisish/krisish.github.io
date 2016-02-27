@@ -17,12 +17,6 @@ El pasado día 25 Novartis celebró una conferencia online: My Body, My Mind, My
 
 El panel lo componían un neurólogo, una neuropsicóloga, una fisioterapeuta y una nutricionista. Aunque fue interesante no podían opinar sobre productos concretos (supongo que por estar auspiciados por Novartis) así que no respondieron a muchas dudas en Twitter.
 
-<div class="text-align-center">
-
-![Cartel](/images/disrupting.jpg)
-
-</div>
-
 Estuve escuchando con atención, ya que lo que más me preocupaban eran los problemas a nivel cognitivo que creo estar padeciendo. Efectivamente enumeraron como **síntomas cognitivos** en ‪EM‬: la velocidad de procesamiento y la alteración de los procesos como la atención y la memoria. Y que estos se acentuaban con la fatiga.
 Un buen ejercicio cognitivo es intentar lidiar la EM con la vida laboral. **Pero estoy en el parooo**.
 
