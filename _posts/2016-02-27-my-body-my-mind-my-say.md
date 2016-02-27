@@ -21,6 +21,7 @@ Estuve escuchando con atención, ya que lo que más me preocupaban eran los prob
 Un buen ejercicio cognitivo es intentar lidiar la EM con la vida laboral. **Pero estoy en el parooo**.
 
 Hubieron bastantes preguntas sobre **alimentación**. Algunas de mis notas:
+
 - Sal la recomendada (6mg día).
 - La alimentación puede estar muy relacionada con la fatiga en la EM, aunque no hay una alimentación específica.
 - En general, no hace falta tomar suplementos.
@@ -29,6 +30,7 @@ Hubieron bastantes preguntas sobre **alimentación**. Algunas de mis notas:
 
 
 Y sobre **fisioterapia y ejercicio**:
+
 - La fisioterapia y el ejercicio contribuyen al control y convivencia con la EM. 
 - No todos los afectados vamos a necesitar un fisioterapeuta. Depende de cada persona.
 
