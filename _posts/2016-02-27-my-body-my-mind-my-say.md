@@ -19,7 +19,7 @@ El panel lo componían un neurólogo, una neuropsicóloga, una fisioterapeuta y 
 
 <div class="text-align-center">
 
-![Cartel My Body, My Mind, My Say](/images/disrupting.jpg)
+![Cartel](/images/disrupting.jpg)
 
 </div>
 
