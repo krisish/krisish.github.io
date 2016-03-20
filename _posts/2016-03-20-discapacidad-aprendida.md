@@ -6,7 +6,7 @@ headline: ""
 modified: ""
 categories: null
 tags: ""
-imagefeature: lights.png
+imagefeature: lights.jpg
 mathjax: false
 featured: false
 comments: true
