@@ -4,8 +4,7 @@ published: true
 description: ""
 headline: ""
 modified: ""
-categories: 
-  - "null"
+categories: null
 tags: ""
 imagefeature: espera.jpg
 mathjax: false
