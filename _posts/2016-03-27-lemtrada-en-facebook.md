@@ -4,7 +4,8 @@ published: true
 description: ""
 headline: ""
 modified: ""
-categories: null
+categories: 
+  - "null"
 tags: ""
 imagefeature: espera.jpg
 mathjax: false
@@ -12,6 +13,7 @@ featured: false
 comments: true
 title: Lemtrada en Facebook
 ---
+
 
 Aprovechando un poco de tiempo libre esta semana de vacaciones he creado un grupo en Facebook para que todos y todas podamos compartir experiencias y noticias relacionadas con Lemtrada.
 
