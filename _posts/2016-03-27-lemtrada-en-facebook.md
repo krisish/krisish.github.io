@@ -14,9 +14,12 @@ title: Lemtrada en Facebook
 ---
 
 
+
 Aprovechando un poco de tiempo libre esta semana de vacaciones he creado un grupo en Facebook para que todos y todas podamos compartir experiencias y noticias relacionadas con Lemtrada.
 
 Espero que os animéis a participar, tengo muchas ganas de conoceros. Yo por mi parte intentaré publicar las noticias que encuentre y voy a apuntar el enlace a Facebook de este blog por el del grupo.
+
+Ya tengo fecha para la segunda ronda de Lemtrada, el 26 de abril empiezo, deseadme suerte.
 
 Espero veros pronto, el enlace es:
 
