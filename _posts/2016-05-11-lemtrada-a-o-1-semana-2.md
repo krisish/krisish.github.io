@@ -11,7 +11,9 @@ Ya han pasado más de dos semanas desde que me puse la ronda 2 de Lemtrada.
 
 La verdad ha sido mucho más leve que la primera ronda. De momento no he tenido esa fatiga extrema ni el dolor de cabeza que tanto me molestó. No tengo ganas de hacer nada, de ahí que sin el café de la mañana no sea persona.
 
-Sigo teniendo bastantes altibajos de ánimo. Quizá los corticoides hayan ayudado. A las pocas ganas de hacer nada se une bastante ansiedad. Menos mal que he podido evitar el insomnio durante la semana del tratamiento tomando **Noctamid**.
+Mis pies vuelven a estar un poco dormidos y por las noches sudo mucho (algo que es común entre todos los que somos "lemmies") dicen que para eliminar los restos de la batalla.
+
+Sigo teniendo bastantes altibajos de ánimo. Quizá los corticoides hayan ayudado. A las pocas ganas de hacer nada se une bastante **ansiedad**. Menos mal que he podido evitar el insomnio durante la semana del tratamiento tomando **Noctamid**.
 
 Le pregunté a Ana, mi enfermera si podía tomar algunas vitaminas y me recomendó **Poli A-B-E**, unas ampollas bebidas durante un mes. A ver si me ayudan con el pequeño terremotito que tengo en casa. :)
 
