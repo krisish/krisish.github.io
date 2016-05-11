@@ -13,7 +13,7 @@ La verdad ha sido mucho más leve que la primera ronda. De momento no he tenido 
 
 Sigo teniendo bastantes altibajos de ánimo. Quizá los corticoides hayan ayudado. A las pocas ganas de hacer nada se une bastante ansiedad. Menos mal que he podido evitar el insomnio durante la semana del tratamiento tomando **Noctamid**.
 
-Le pregunté a Ana, mi enfermera si podía tomar algunas vitaminas y me recomendó **Poli A-B**, unas ampollas bebidas durante un mes. A ver si me ayudan con el pequeño terremotito que tengo en casa. :)
+Le pregunté a Ana, mi enfermera si podía tomar algunas vitaminas y me recomendó **Poli A-B-E**, unas ampollas bebidas durante un mes. A ver si me ayudan con el pequeño terremotito que tengo en casa. :)
 
 La semana que viene tengo resonancia pero hasta el mes que viene no sabré los resultados.
 
