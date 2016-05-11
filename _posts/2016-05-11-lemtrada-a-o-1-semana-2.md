@@ -5,7 +5,7 @@ mathjax: false
 featured: false
 comments: true
 title: "Lemtrada año 1: semana 2"
-imagefeature: coffee.jpeg
+imagefeature: coffee.jpg
 ---
 Ya han pasado más de dos semanas desde que me puse la ronda 2 de Lemtrada.
 
