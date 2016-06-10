@@ -4,7 +4,7 @@ published: true
 mathjax: false
 featured: false
 comments: true
-title: 'Lemtrada año 1, revisión del primer mes'
+title: 'Lemtrada, año 1. Revisión del primer mes'
 imagefeature: joy.jpg
 ---
 Ha pasado el primer mes de tratamiento sin incidencias ni brotes.
