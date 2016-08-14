@@ -5,6 +5,7 @@ mathjax: false
 featured: false
 comments: true
 title: Segunda y tercera revisión
+imagefeature: bici.jpg
 ---
 Hace tiempo que no publico porque no tengo mucho que contar. Como ya sabéis si no hay noticias son  buenas noticias. Además hoy traigo no una, sino dos nuevas entradas.
 
