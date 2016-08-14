@@ -5,7 +5,7 @@ mathjax: false
 featured: false
 comments: true
 title: ¿Cuándo voy a mejorar?
-imagefeature: gears.jpg
+imagefeature: clock.jpg
 ---
 Cuando pensamos en ponernos Alemtuzumab por primera vez algunos pensamos que Lemtrada va a hacernos mejorar. Hemos leído u oído historias de recuperaciones asombrosas y por supuesto queremos eso mismo para nosotros.
 
