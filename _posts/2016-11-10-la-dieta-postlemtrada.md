@@ -6,7 +6,9 @@ featured: false
 comments: true
 title: La dieta postLemtrada
 ---
+
 Aquí tienes un resumen de la dieta postLemtrada o dieta de embarazada, que recomiendan tomar los primeros 3 meses después de la infusión:
+
 
 **Quesos** 
 Es preferible evitar los quesos blandos madurados con moho, como el brie y el camembert, ya sean de leche de vaca o de cabra.
