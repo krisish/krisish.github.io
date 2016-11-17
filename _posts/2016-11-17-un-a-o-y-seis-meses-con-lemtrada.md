@@ -2,7 +2,7 @@
 layout: post
 published: true
 mathjax: false
-featured: false
+featured: true
 comments: true
 title: Un año y seis meses con Lemtrada
 imagefeature: pis.jpg
