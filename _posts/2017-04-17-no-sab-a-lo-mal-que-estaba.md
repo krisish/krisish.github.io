@@ -6,6 +6,7 @@ featured: false
 comments: true
 title: No sabía lo mal que estaba
 imagefeature: high.jpg
+author: Javi Carrasco
 ---
 No sabía lo mal que estaba es una frase que Cris me ha dicho varias veces. Parece que solo después de una mejora repentina es capaz de valorar el daño que la enfermedad le ha causado poco a poco.
 
