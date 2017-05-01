@@ -10,6 +10,7 @@ imagefeature: 2.jpg
 Estamos de aniversario ya hace 2 años que me puse la primera dosis de Lemtrada y sigo sin brotes. :)
 
 La última visita al neuro ha ido bien. Las analíticas correctas y el Amantadine está funcionando. Aunque ahora no puedo dormir (siempre he dormido mal).
+
 El neurólogo me explicó cómo miraban la orina para saber si había infección. A veces las tiras reactiva dan **falsos  positivos** y es mejor fijarse en el análisis del cociente de microalbúmina-creatinina en orina que implica medir la cantidad de una proteína llamada "albúmina" en la orina (pis). 
 La cantidad de albúmina en la orina se compara con la cantidad de un producto de desecho presente en la orina llamado "creatinina". 
 ￼
