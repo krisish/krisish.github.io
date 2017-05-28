@@ -10,10 +10,10 @@ headline: ''
 modified: ''
 categories: ''
 tags: ''
-imagefeature: ''
+imagefeature: 'emredes_blogger.jpg'
 author: 'Javi Carrasco'
 ---
-El pasado día 19 de mayo se celebró el primer EMRedes y Cris estuvo allí compartiendo su experiencia. Yo estuve de público así que pude disfrutar tranquilamente de las conversaciones (y de la comida :)
+El pasado día 19 de mayo se celebró el primer #EMRedes17 y Cris estuvo allí compartiendo su experiencia. Yo estuve de público así que pude disfrutar tranquilamente de las conversaciones (y de la comida :)
 
 <div class="text-center" style="margin-bottom: 30px">
 <iframe src="https://goo.gl/photos/fYU8f8NApC9p4yis5" width="600" height="600" frameborder="0"></iframe><script src="https://platform.vine.co/static/scripts/embed.js"></script>
