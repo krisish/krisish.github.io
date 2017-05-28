@@ -5,19 +5,17 @@ mathjax: false
 featured: false
 comments: true
 title: 'De vuelta del #EMRedes17'
+imagefeature: emredes_blogger.jpg
+author: Javi Carrasco
 description: ''
 headline: ''
 modified: ''
 categories: ''
 tags: ''
-imagefeature: 'emredes_blogger.jpg'
-author: 'Javi Carrasco'
 ---
 El pasado día 19 de mayo se celebró el primer #EMRedes17 y Cris estuvo allí compartiendo su experiencia. Yo estuve de público así que pude disfrutar tranquilamente de las conversaciones (y de la comida :)
 
-<div class="text-center" style="margin-bottom: 30px">
-<iframe src="https://goo.gl/photos/fYU8f8NApC9p4yis5" width="600" height="600" frameborder="0"></iframe><script src="https://platform.vine.co/static/scripts/embed.js"></script>
-</div>
+Os paso mi álbum de fotos [Emredes17 en Google Photos](https://goo.gl/photos/fYU8f8NApC9p4yis5).
 
 Pronto estará disponible un vídeo resumen del evento, en cuanto nos enteremos os lo pasamos. El twitter echó fuego ese día, fuimos tranding topic y eso demuestra que existe un gran interés por los afectados de EM por juntarse y participar. 
 
