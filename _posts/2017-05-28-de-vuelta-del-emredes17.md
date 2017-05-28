@@ -11,6 +11,7 @@ modified: ''
 categories: ''
 tags: ''
 imagefeature: ''
+author: 'Javi Carrasco'
 ---
 El pasado día 19 de mayo se celebró el primer EMRedes y Cris estuvo allí compartiendo su experiencia. Yo estuve de público así que pude disfrutar tranquilamente de las conversaciones (y de la comida :)
 
