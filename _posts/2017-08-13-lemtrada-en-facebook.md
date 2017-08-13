@@ -8,7 +8,7 @@ title: Lemtrada en Facebook
 imagefeature: crowd.jpg
 author: Javi Carrasco
 ---
-Facebook ha añadido la opción de ver estadísticas de los grupos lo que nos ha permitido ver lo bien que está yendo nuestro rinconcito en Fb. ¡Ya somos 900 miembros, con 270 publicaciones, 3 mil comentrios y 6.4 millones de reacciones!
+Facebook ha añadido la opción de ver estadísticas de los grupos lo que nos ha permitido ver lo bien que está yendo nuestro rinconcito en Fb. ¡Ya somos 900 miembros, con 270 publicaciones, 3 mil comentarios y 6.4 millones de reacciones!
 
 También han añadido una funcionalidad muy útil, la posibilidad de hacer unas preguntitas a los nuevos miembros antes de aceptarlos. Así nos aseguramos de que los nuevos también están relacionados con la EM y que no han aplicado al grupo de forma inconsciente.
 
