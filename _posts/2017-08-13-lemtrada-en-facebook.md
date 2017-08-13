@@ -6,6 +6,7 @@ featured: false
 comments: true
 title: Lemtrada en Facebook
 imagefeature: crowd.jpg
+author: Javi Carrasco
 ---
 Facebook ha añadido la opción de ver estadísticas de los grupos lo que nos ha permitido ver lo bien que está yendo nuestro rinconcito en Fb. ¡Ya somos 900 miembros, con 270 publicaciones, 3 mil comentrios y 6.4 millones de reacciones!
 
