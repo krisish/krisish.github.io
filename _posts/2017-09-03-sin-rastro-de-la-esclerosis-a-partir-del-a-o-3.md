@@ -10,7 +10,7 @@ author: Javier Carrasco
 ---
 Hemos encontrado un artículo que explica los resultados de los estudios sobre los efectos de Alemtuzumab en un periodo de 5 años y los resultados son alucinantes. La mayoría de los pacientes no muestran actividad durante los años 3, 4 y 5.
 
-Si tienes interés en leer el artículo original puedes encontrarlo [http://multiple-sclerosis-research.blogspot.com/2017/09/researchspeak-does-hsct-have-chance.html](aquí).
+Si tienes interés en leer el artículo original puedes encontrarlo [aquí](http://multiple-sclerosis-research.blogspot.com/2017/09/researchspeak-does-hsct-have-chance.html).
 
 El estudio CARE-MS 1 muestra los resultados a 5 años de los pacientes que fueron tratados con Alemtuzumab como primer tramiento y CARE-MS 2 el de los pacientes que ya habían sido tratados con algún medicamento modificador de la enfermedad sin éxito.
 
