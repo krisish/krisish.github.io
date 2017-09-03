@@ -4,7 +4,7 @@ published: true
 mathjax: false
 featured: false
 comments: true
-title: Sin rastro de la esclerosis a partir del año 3
+title: Efectos de Alemtuzumab en 5 años
 imagefeature: bambu.jpg
 author: Javier Carrasco
 ---
