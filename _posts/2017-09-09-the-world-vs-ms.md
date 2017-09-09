@@ -15,7 +15,9 @@ Para empezar se intenta que el paciente cuente su momento en el que decidieron q
 
 Aquí está mi vídeo donde os cuento mi momento.
 
+<div style="text-align: center; margin-bottom:30px">
 <iframe src="https://drive.google.com/file/d/19snrxBmxXBJpfwhAaZADvdy4S9pe90l3gw/preview" width="640" height="480"></iframe>
+</div>
 
 
 Grábate un video o manda un texto para que con ese momento inspires a más personas. La fecha límite es el 31 de noviembre de 2017.
