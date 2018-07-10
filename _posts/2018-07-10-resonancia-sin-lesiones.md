@@ -1,8 +1,6 @@
 ---
 layout: post
 published: true
-categories:
-  - personal
 mathjax: false
 featured: false
 comments: true
@@ -19,6 +17,6 @@ Las analíticas han ido saliendo bien. Los linfocitos han subido a 1800 (a veces
 En cuanto a la orina me volvió a salir infección, tomo pastillas de arándano a ver si me pasa menos a menudo pero parece un problema bastante común. Cualquier consejo es bienvenido.
 Y también tengo una app en el móvil que me recuerda que beba agua (es que no puede ser conmigo "soy de secano" que decía mi madre).
 
-También estuvimos en Madrid en el [#EMRedes18](https://business.facebook.com/EMOnetoOneES/videos/481665785587453/) y fue súper interesante,
+También estuvimos en Madrid en el [#EMRedes18](https://business.facebook.com/EMOnetoOneES/videos/481665785587453/) y fue súper interesante.
 
 Finalmente comentaros que el [grupo de Facebook](https://www.facebook.com/groups/1322650174418099/about/) sigue creciendo (1200 miembros) y además somos una comunidad muy maja todo hay que decirlo y por allí siempre podéis encontrarme. Hasta la próxima entrada.
