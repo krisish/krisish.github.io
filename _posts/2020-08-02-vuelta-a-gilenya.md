@@ -7,7 +7,7 @@ mathjax: false
 featured: false
 comments: true
 title: Vuelta a Gilenya
-imagefeature: gilenya.png
+imagefeature: gilenya.jpg
 ---
 Acaba mi viaje con Lemtrada. El martes me comunicaron que en la última resonancia han salido **3 lesiones nuevas**. Afortunadamente sin síntomas.
 La manera de comunicarlo no ha sido la idónea, ya que fue muy abrupta y además mi neurólogo estaba de vacaciones.
